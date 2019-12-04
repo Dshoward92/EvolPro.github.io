@@ -211,16 +211,16 @@ header .header-content .header-content-inner p {
 .section-heading {
   margin-top: 0;
 }
-.pr-photo-box {
+.service-box {
   max-width: 400px;
   margin: 50px auto 0;
 }
 @media (min-width: 992px) {
-  .pr-photo-box {
+  .service-box {
     margin: 20px auto 0;
   }
 }
-.pr-photo-box p {
+.service-box p {
   margin-bottom: 0;
 }
 .portfolio-box {
