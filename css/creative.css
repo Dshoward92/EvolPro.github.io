@@ -130,7 +130,7 @@ aside {
     border-color: rgba(34, 34, 34, 0.05);
   }
   .navbar-default.affix .navbar-header .navbar-brand {
-    color: #F05F40;
+    color: crimson;
     font-size: 14px;
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
