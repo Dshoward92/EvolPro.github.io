@@ -343,6 +343,17 @@ fieldset[disabled] .btn-default.active {
   -moz-transition: all 0.35s;
   transition: all 0.35s;
 }
+
+}
+.btn-offer {
+  color: white;
+  background-color: crimson;
+  border-color: #F05F40;
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
