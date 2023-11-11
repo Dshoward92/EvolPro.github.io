@@ -159,6 +159,21 @@ header {
   text-align: center;
   color: white;
 }
+
+header .header-services {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-image: url('../img/Watson-Lake.jpg');
+  text-align: center;
+  color: white;
+}
+
 header .header-content {
   position: relative;
   text-align: center;
