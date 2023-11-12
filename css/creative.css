@@ -146,7 +146,7 @@ aside {
     color: #F05F40;
   }
 }
-.main-header {
+header .main-header {
   position: relative;
   width: 100%;
   min-height: auto;
@@ -159,11 +159,11 @@ aside {
   color: white;
 }
 
-.page-one {
+header .page-one {
     background-image: url('../img/dsh2.JPG');
 }
 
-.page-two {
+header .page-two {
     background-image: url('../img/Watson-Lake.jpg');
 }
 
