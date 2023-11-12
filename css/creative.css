@@ -146,7 +146,7 @@ aside {
     color: #F05F40;
   }
 }
-header {
+.main-header {
   position: relative;
   width: 100%;
   min-height: auto;
@@ -155,23 +155,16 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/dsh2.JPG');
   text-align: center;
   color: white;
 }
 
-header .header-services {
-  position: relative;
-  width: 100%;
-  min-height: auto;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-  background-position: center;
-  background-image: url('../img/Watson-Lake.jpg');
-  text-align: center;
-  color: white;
+.page-one {
+    background-image: url('../img/dsh2.JPG');
+}
+
+.page-two {
+    background-image: url('../img/Watson-Lake.jpg');
 }
 
 header .header-content {
